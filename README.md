@@ -1,5 +1,5 @@
 ## Hey 👋, This is Краснов Алексей
-[![Gmail Badge](https://img.shields.io/badge/-neky@list.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:123@list.ru)](mailto:neky@list.ru) [![Github Badge](https://img.shields.io/badge/-Barrrsss-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Barrrsss/)](https://www.github.com/Barrrsss/) <p align='left'>Начинающий Frontend-Разработчик</p>
+[![Gmail Badge](https://img.shields.io/badge/-neky@list.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:123@list.ru)](mailto:123@list.ru) [![Github Badge](https://img.shields.io/badge/-Barrrsss-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Barrrsss/)](https://www.github.com/Barrrsss/) <p align='left'>Начинающий Frontend-Разработчик</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Barrrsss alt=Barrrsss /> </p>
 
